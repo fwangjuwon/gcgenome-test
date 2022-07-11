@@ -42,4 +42,17 @@ public class Department {
 }
 ```
 
-3. 
+3. 직원목록 전체 조회
+```
+StaffService.java 참고
+```
+
+4. 특정직원 전체 조회
+```
+StaffService.java 참고
+```
+
+5. 신규직원 추가
+```
+StaffService.java 참고
+```
